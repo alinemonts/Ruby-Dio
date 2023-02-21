@@ -7,4 +7,4 @@ sobrenome = gets.chomp
 print "Qual a sua idade? "
 idade = gets.chomp.to_i
 
-puts "Seu nome é #{nome} #{sobrenome}, e você tem #{idade} anos!"
+puts "Olá #{nome} #{sobrenome}, você tem #{idade} anos!"
